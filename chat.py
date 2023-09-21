@@ -1,6 +1,6 @@
 # Chatbot
 #Author: Colton Farbatuk
-#Date: 2020-06-13
+#Date: 2018-06-13
 
 # Program is a chat bot that allows two questions and gives random answers
 #Step1: create lists of possible answers and functions to run program
